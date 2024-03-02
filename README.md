@@ -2,29 +2,20 @@
 
 This project aims to predict the house condition ('NOR', 'ABN', 'PAR', 'ADL', 'ALC', 'FAM') using the K-Nearest Neighbors (KNN) algorithm. The dataset contains various features that influence the house condition, such as:
 * LotFrontage
-
 * YearBuilt
-
 * BsmtQual
-
 * BsmtExposure
-
 * BedroomAbvGr
-
+* etc
 
 **Steps:**
 
-* Import data: The data will be imported from a CSV file using Python.
-
-* Preprocessing: The data will be cleaned and preprocessed by removing missing values, outliers, and encoding categorical variables.
-
-* Split data: The data will be split into training and testing sets.
-
-* Train model: The KNN model will be trained on the training set.
-
-* Evaluate model: The accuracy of the model will be evaluated on the testing set.
-
-* Make predictions: The model will be used to predict the house condition for new data.
+* **Import data:** The data will be imported from a CSV file using Python.
+* **Preprocessing:** The data will be cleaned and preprocessed by removing missing values, outliers, and encoding categorical variables.
+* **Split data:** The data will be split into training and testing sets.
+* **Train model:** The KNN model will be trained on the training set.
+* **Evaluate model:** The accuracy of the model will be evaluated on the testing set.
+* **Make predictions:** The model will be used to predict the house condition for new data.
 
 **KNN Algorithm**
 
